@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JLG-Project/JLG-Project/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JLG-Project/Jose_Luiz/main/snake.svg" alt="Snake animation" />
 
 ###
